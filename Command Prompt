@@ -1,0 +1,24 @@
+#Sample Command Prompt Scripts
+
+##File / Folder (including all sub folders) Creation Dates Saved to File 
+
+###Command
+dir/q/tc/
+
+###Response
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
+
+ Directory of H:\Documents
+
+06/10/2017  02:41 PM    <DIR>          Domain\Stewartc        .
+06/10/2017  07:55 AM    <DIR>          Domain\MAMUNM          ..
+06/10/2017  02:41 PM    <DIR>          Domain\Stewartc        Video
+06/10/2017  02:42 PM    <DIR>          Domain\Stewartc        Pictures
+10/10/2017  03:24 PM            23,169 Domain\Stewartc        business rules checklist - Sample 1.docx
+10/10/2017  04:35 PM            28,654 Domain\Stewartc        business rules checklist - Sample 2.docx
+10/10/2017  03:49 PM            24,570 Domain\Stewartc        business rules checklist - Sample 3.docx
