@@ -15,8 +15,6 @@ Series of tools report on and visualise file shares.  It came about as a result 
 
 ## Constraints
 Not going into any file
-1.4  Terminology
-1.5  Acknowledge and References
 
 ## Future Work
 
